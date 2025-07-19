@@ -1,4 +1,4 @@
-# TODO Challenge
+# 🚀 TODO Challenge
 
 Este projeto é um gerenciador de tarefas (TODO) desenvolvido como parte de um desafio da Rocketseat na trilha de formação React.
 
@@ -43,4 +43,4 @@ Projeto para fins de estudo, seguindo o desafio da Rocketseat.
 
 ---
 
-Desenvolvido durante a trilha React da Rocketseat 🚀
+Desenvolvido por Natan Dourado durante o curso Ignite da Rocketseat 🚀
